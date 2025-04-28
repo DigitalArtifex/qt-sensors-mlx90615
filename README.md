@@ -1,4 +1,4 @@
-# qt-sensors-bmp280-i2c
+# qt-sensors-mlx90615
 Qt Sensors Plugin &amp; Library For MLX90615 Infrared Temperature Sensor
 
 # Installation
