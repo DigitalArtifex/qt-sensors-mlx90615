@@ -1,0 +1,12 @@
+#ifndef QMLX90615_GLOBAL_H
+#define QMLX90615_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(QMLX90615_LIBRARY)
+#define QMLX90615_EXPORT Q_DECL_EXPORT
+#else
+#define QMLX90615_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // QT_SENSORS_MLX9_615_GLOBAL_H

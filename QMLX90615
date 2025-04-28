@@ -1,0 +1,7 @@
+#ifndef QT_QMLX90615_MODULE_H
+#define QT_QMLX90615_MODULE_H
+#include "qmlx90615.h"
+#include "qmlx90615_p.h"
+#include "qmlx90615backend.h"
+#include "qmlx90615reading.h"
+#endif
